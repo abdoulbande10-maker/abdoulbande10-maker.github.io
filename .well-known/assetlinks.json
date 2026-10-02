@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.abdoulbande10_maker.twa",
+        "sha256_cert_fingerprints": ["11:AE:14:4D:F6:DC:66:3E:88:41:A8:55:F9:C5:89:96:00:5D:6F:9B:C6:85:B0:09:AE:5A:9D:88:A5:BC:3A:FD"]
+      }
+    }]
